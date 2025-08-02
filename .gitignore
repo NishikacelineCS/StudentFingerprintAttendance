@@ -1,0 +1,12 @@
+*.log
+*.tmp
+__pycache__/
+.vscode/
+.idea/
+node_modules/
+*.sqlite3
+*.db
+*.csv
+Thumbs.db
+desktop.ini
+.DS_Store
