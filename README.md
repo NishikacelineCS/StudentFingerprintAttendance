@@ -54,16 +54,13 @@ StudentFingerprintAttendance/
 ### Home Page
 ![Screenshot 1](1.png)
 
-### Admin Panel
-![Screenshot 2](2.png)
-
-### Student Login
+### Admin Login
 ![Screenshot 3](3.png)
 
 ### Attendance Record
 ![Screenshot 4](4.png)
 
-### Confirmation Message
+### Student panel
 ![Screenshot 5](5.png)
 
 
