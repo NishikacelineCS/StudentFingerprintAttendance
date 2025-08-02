@@ -1,6 +1,7 @@
 # Student Fingerprint Attendance System
 
-![App Screenshot](screenshot.png) <!-- Replace with your screenshot name if different -->
+![App Screenshot](1.png)
+
 
 This project is a **Python GUI application** built using **Tkinter** to simulate a fingerprint-based student attendance system. It features:
 
@@ -50,7 +51,21 @@ StudentFingerprintAttendance/
 
 ## 📸 Screenshot
 
-_Replace this text with your app screenshot image if uploaded_
+### Home Page
+![Screenshot 1](1.png)
+
+### Admin Panel
+![Screenshot 2](2.png)
+
+### Student Login
+![Screenshot 3](3.png)
+
+### Attendance Record
+![Screenshot 4](4.png)
+
+### Confirmation Message
+![Screenshot 5](5.png)
+
 
 ---
 
