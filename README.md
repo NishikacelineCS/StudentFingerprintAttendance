@@ -18,7 +18,7 @@ This project is a **Python GUI application** built using **Tkinter** to simulate
 - Nishika  
 - Harish
 
-_(Note: Sandeep and Krishna are non-team members – shown as absent by default)_
+_(Note: Sandeep and Krishna are not part of the team – they are marked absent by default)_
 
 ---
 
@@ -51,17 +51,10 @@ StudentFingerprintAttendance/
 
 ## 📸 Screenshot
 
-### Home Page
-![Screenshot 1](1.png)
+| Home Page | Admin Login | Attendance Record | Student Panel |
+|-----------|-------------|-------------------|----------------|
+| ![](1.png) | ![](3.png) | ![](4.png) | ![](5.png) |
 
-### Admin Login
-![Screenshot 3](3.png)
-
-### Attendance Record
-![Screenshot 4](4.png)
-
-### Student panel
-![Screenshot 5](5.png)
 
 
 ---
@@ -76,7 +69,11 @@ This project was developed as a part of academic coursework. For learning purpos
 
 For queries or collaborations:  
 📧 nishikaceline05@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nishika-celine-c-s-762269279)
+🔗 [LinkedIn – Nishika Celine CS](https://www.linkedin.com/in/nishika-celine-c-s-762269279)  
+📁 [GitHub Repository](https://github.com/NishikacelineCS/StudentFingerprintAttendance)
+
+
+
 
 
 
