@@ -76,5 +76,7 @@ This project was developed as a part of academic coursework. For learning purpos
 
 For queries or collaborations:  
 📧 nishikaceline05@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/nishikacelinecs/)
+🔗 [LinkedIn](https://www.linkedin.com/in/nishika-celine-c-s-762269279)
+
+
 
