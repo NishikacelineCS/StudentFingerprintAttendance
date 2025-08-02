@@ -40,11 +40,11 @@ _(Note: Sandeep and Krishna are non-team members – shown as absent by default)
 
 ## 📂 Project Structure
 StudentFingerprintAttendance/
-│
-├── attendance_system.py # Main GUI app
-├── attendance.csv # Stores attendance logs
-├── README.md # Project documentation
-└──  # App screenshot
+├── attendance_system.py    # Main GUI app
+├── attendance.csv          # Stores attendance logs
+├── README.md               # Project documentation
+└── 1.png          # App screenshot
+
 
 
 ---
